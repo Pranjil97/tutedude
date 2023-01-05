@@ -32,7 +32,7 @@ const Refer = (props) => {
             <div style={{width:300,height:36}} className='ml-16 md:-ml-[36px] font-semibold text-[24px] text-center item-center w-[228px] h-[36px] mt-[30px] text-[#800080] md:font-semibold md:text-2xl'>Your Referral Code</div>
             <div style={{marginTop:5}} className='md:ml-[0px] ml-[101px] h-[63px] w-[355px] md:h-[63px] md:w-[355px] flex md:text-[#800080] justify-center items-center rounded-xl bg-gradient-to-r from-[#FF864C] to-[#800080]'>
               <div className=' h-[59.92px] w-[351px] rounded-xl bg-white '>
-                <div className=' text-[20px] mt-[15px] ml-[64px] w-[230px] h-[30px] md:h-10 md:w-[227px] ml-10 text-center tracking-[0.55em] font-medium'>
+                <div className=' text-[20px] mt-[15px] ml-[67px] w-[230px] h-[30px] md:h-10 md:w-[227px] text-center tracking-[0.55em] font-medium'>
                   {code}
                 </div>
               </div>

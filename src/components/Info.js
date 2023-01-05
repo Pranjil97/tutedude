@@ -9,7 +9,7 @@ const Info = () => {
 
   return (
     <div className='h-fit flex flex-col'>
-        <div className='ml-[38px] -mt-6 w-[230px] h-[36px] text-[24px] md:ml-[187px] md:mt-[40px] md:w-[229px] md:h-9 md:text-2xl font-semibold text-[#800080]'>How Does it Work ?</div>
+        <div className='ml-[38px] -mt-6 w-[240px] h-[36px] text-[24px] md:ml-[187px] md:mt-[40px] md:w-[229px] md:h-9 md:text-2xl font-semibold text-[#800080]'>How Does it Work ?</div>
         <div className='md:flex'>
           <div  className=' flex flex-col mt-4'>
           {col1data.map((value,key)=>{
